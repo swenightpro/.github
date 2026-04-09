@@ -23,8 +23,9 @@ L'obiettivo? Sostituire l'inserimento manuale degli ordini con una pipeline auto
 | Risorsa | Link / Destinazione |
 |---------|---------------------|
 | 📖 **Sito di Documentazione** | [swenightpro.github.io/Documentazione](https://swenightpro.github.io/Documentazione/) |
-| 🧑‍💻 **PoC (Proof of Concept)** | [smartorder-poc.up.railway.app](https://smartorder-poc.up.railway.app/) |
 | 📦 **Codebase PoC** | [github.com/swenightpro/SmartOrder-PoC](https://github.com/swenightpro/SmartOrder-PoC) |
+| 🧑‍💻 **MvP (Minimum Viable Product)** | [railway.app](https://frontend-production-afc4.up.railway.app/) |
+| 📦 **Codebase MvP** | [github.com/swenightpro/SmartOrder-MVP](https://github.com/swenightpro/SmartOrder-MVP) |
 | 🗂️ **Repository Docs** | [github.com/swenightpro/Documentazione](https://github.com/swenightpro/Documentazione) |
 | 🤝 **Profilo GitHub Org** | [github.com/swenightpro](https://github.com/swenightpro) |
 
