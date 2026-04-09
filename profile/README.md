@@ -6,7 +6,7 @@
 
   <p>
     <a href="https://swenightpro.github.io/Documentazione/"><img src="https://img.shields.io/badge/Sito_Web-Documentazione-7d4efb?style=for-the-badge&logo=vercel" alt="Docs"/></a>
-    <a href="https://frontend-production-afc4.up.railway.app/"><img src="https://img.shields.io/badge/PoC-App_Live-2563eb?style=for-the-badge&logo=railway" alt="MvP Live"/></a>
+    <a href="https://frontend-production-afc4.up.railway.app/"><img src="https://img.shields.io/badge/MvP-App_Live-2563eb?style=for-the-badge&logo=railway" alt="MvP Live"/></a>
   </p>
 </div>
 
