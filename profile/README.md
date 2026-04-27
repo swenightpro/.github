@@ -57,7 +57,7 @@ Siamo un gruppo coeso e determinato alla ricerca della miglior qualità del soft
     <tr>
       <td align="center"><a href="https://github.com/Mihaela-Mariana"><img src="https://github.com/Mihaela-Mariana.png" width="80px;" alt="" style="border-radius:50%"/><br /><sub><b>Mihaela-Mariana Romascu</b></sub></a><br><sup>(2079726)</sup></td>
       <td align="center"><a href="https://github.com/samuele-perozzo"><img src="https://github.com/samuele-perozzo.png" width="80px;" alt="" style="border-radius:50%"/><br /><sub><b>Samuele Perozzo</b></sub></a><br><sup>(2110989)</sup></td>
-      <td align="center"><a href="https://github.com/Micheleogniben"><img src="https://github.com/Micheleogniben.png" width="80px;" alt="" style="border-radius:50%"/><br /><sub><b>Michele Ogniben</b></sub></a><br><sup>(2042325)</sup></td>
+      <td></td>
       <td></td>
     </tr>
   </table>
